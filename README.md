@@ -1,2 +1,2 @@
 # LeetCode-Activity
-Integer to Roman Numeral Code &amp; Description
+Integer to Roman Numeral Code and Description
